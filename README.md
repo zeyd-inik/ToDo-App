@@ -1,4 +1,15 @@
-# ToDo-App
+## Overview
+
+-   Live Site URL: [Go to website](https://to-do-app-ten-inky.vercel.app/)
+
+### Built with
+
+-   SASS - SCSS
+-   Flexbox
+-   Vue Animation
+-   Mobil-first approach
+-   Vue Composition API
+-   Vue Router
 
 This template should help get you started developing with Vue 3 in Vite.
 
